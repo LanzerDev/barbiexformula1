@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.linea_rosa{
+    width: 100%;
+    height: 30px;
+    background-color: #E637A8;
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    border-color: #E637A8 !important;
+}
+
+.form-control{
+    border-color: #E637A8 !important;
+}
+
+.frase{
+    width: 100%;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    color: #E637A8;
+    font-family: 'Pacifico', cursive;
+}
+h2{
+    font-size: 22px;
+}
+
+.container_rosa{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, #E637A8 5%, #ee86d7);
+    display: flex;
+    justify-content: center;
+}
+
+.fuder{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px;
+    align-items: center;
+    color: #E637A8;
+    background-color: white;
+    font-family: 'Pacifico', cursive;
+}
+
+.insta_logo{
+    width: 42px;
+    height: 42px;
+    display: flex;
+    justify-content: center;
+    background-color: #E637A8;
+    border-radius: 100%;
+    align-items: center;
+}
+
+.banderas{
+    margin: 5px;
+}
+
+.bandera_mexico{
+    border-radius: 5px;
+}
+.bandera_alemana{
+    border-radius: 5px;
+}
+
+html, body 
+{ 
+ height: 100%;
+ overflow: hidden
+}
